@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel McKenzie / Homepage"
+title                    : "Daniel McKenzie"
 title_separator          : "-"
 name                     : &name "Daniel McKenzie"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "DanielMcKenzie"
+  name             : "Daniel McKenzie"
   avatar           : "profile.png"
-  bio              : "Machine learning, signal processing and optimization"
+  bio              : "ML, signals and optimization"
   location         : "Virtual (for now)"
-  employer         :
+  employer         : "University of California, Los Angeles"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kP12IskAAAAJ&hl=en"
-  email            :
+  email            :  
   researchgate     : "https://www.researchgate.net/profile/Daniel-Mckenzie"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :

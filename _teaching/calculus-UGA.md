@@ -1,10 +1,10 @@
 ---
 title: "Calculus 1"
 collection: teaching
-type: 
+type: Undergraduate course
 permalink: /teaching/calculus-UGA
 venue: "University of Georgia"
-date: 2014-01-01
+date: 2015-01-01
 location:
 ---
 

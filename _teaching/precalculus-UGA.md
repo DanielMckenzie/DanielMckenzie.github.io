@@ -1,7 +1,7 @@
 ---
 title: "Precalculus"
 collection: teaching
-type: 
+type: Undergraduate course
 permalink: /teaching/precalculus-UGA
 venue: "University of Georgia"
 date: 2014-01-01

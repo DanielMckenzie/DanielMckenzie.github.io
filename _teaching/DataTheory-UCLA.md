@@ -1,7 +1,7 @@
 ---
 title: "Mathematics of Data Theory"
 collection: teaching
-type: 
+type: Undergraduate course
 permalink: /teaching/DataTheory-UCLA
 venue: "University of California, Los Angeles"
 date: 2020-01-01
