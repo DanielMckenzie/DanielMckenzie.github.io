@@ -1,0 +1,17 @@
+---
+title: 'A zeroth-order block coordinate descent algorithm for huge-scale black-box optimization.'
+collection: publications
+permalink: /publication/2021-02-ZOBCD
+excerpt: 'We propose a new algorithm for ultra-high dimensional black-box optimization (over 1 million variables).'
+date: 2021-01-01
+venue: '<i> Proceedings of the 38<sup>th</sup> International Conference on Machine Learning</i>'
+paperurl: 'https://arxiv.org/pdf/2102.10707.pdf'
+---
+
+<i> Joint with HanQin Cai, Yuchen Lou and Wotao Yin.</i>
+
+We study ultra-high dimensional black-box optimization (over 1 million variables). We combine the ZORO sparse gradient estimator with a block coordinate descent scheme to obtain an algorithm which is both query and time efficient.
+
+[Arxiv version](https://arxiv.org/pdf/2102.10707.pdf)
+
+[Conference version](http://proceedings.mlr.press/v139/cai21d.html)
