@@ -20,3 +20,6 @@ main:
 
   #- title: "Guide"
   #  url: /markdown/
+
+  - title: "CV"
+    url: https://danielmckenzie.github.io/markdown-cv/
