@@ -36,7 +36,7 @@ For South African Undergraduates
 If you are a South African undergraduate considering doing a PhD in mathematics in the United States, here is some general advice:
 <ul>
   <li> Apply early. </li>
-  <li> Consider applying to a few less prestigious or lesser known schools. Stanford and Harvard can only accept so many candidates a year, but there are many great schools, particularly in the Midwest and South-East, that are less oversubscribed. </li>
+  <li> Consider applying to a few less prestigious or lesser known schools. Stanford and Harvard can only accept so many candidates a year, but there are many great schools, particularly in the Midwest and Southeast, that are less oversubscribed. </li>
   <li> Look into doing a semester abroad, an <a href = "https://sites.google.com/view/mathreu"> REU </a>, or some other research exchange. Not only will you have fun and learn a lot, you'll make contacts that will be useful when applying for graduate school. </li>
   <li> Consider applying for a <a href = "https://us.fulbrightonline.org/countries/selectedcountry/south-africa"> Fulbright Scholarship </a> </li>
   <li> Have a website or blog on which you can share some of your mathematical projects or presentations. Admissions committees actually do look at these sorts of things. </li>
