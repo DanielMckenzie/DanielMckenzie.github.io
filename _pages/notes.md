@@ -8,5 +8,5 @@ redirect_from:
 The following are assorted notes, reports and dissertations. They are not intended for publication, but perhaps they may be of use.
 
 <ul>
-  <li> A [report](./files/Sparse_and_Stable.pdf) on sparse, risk minimizing portfolios.
+  <li> A [report](./files/Sparse_and_Stable.pdf) on sparse, risk minimizing portfolios. </li>
 </ul>

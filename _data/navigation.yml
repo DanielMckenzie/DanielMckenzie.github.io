@@ -23,3 +23,6 @@ main:
 
   - title: "CV"
     url: https://danielmckenzie.github.io/markdown-cv/
+
+  - title: "Notes"
+    url: /notes/
