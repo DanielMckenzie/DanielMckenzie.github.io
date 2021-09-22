@@ -1,10 +1,10 @@
 ---
 title: 'Balancing geometry and density: Path distances on high dimensional data.'
 collection: publications
-permalink: /publication/2020-12-Geometry-and-Density
+permalink: /publication/2021-09-Geometry-and-Density
 excerpt: 'We further explore the use of shortest path metrics on high dimensional data.'
-date: 2020-12-01
-venue: '<i> accepted at SIMODS </i>'
+date: 2021-09-01
+venue: '<i> SIMODS (to appear) </i>'
 paperurl: 'https://arxiv.org/pdf/2012.09385.pdf'
 ---
 
