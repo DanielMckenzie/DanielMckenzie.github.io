@@ -12,7 +12,7 @@ redirect_from:
  <ul>
   <li> Using compressed sensing to devise new approaches to high-dimensional zeroth order optimization. </li>
   <li> Using path metrics to get a handle on high-dimensional point clouds, particularly when they are sampled from a low dimensional manifold. </li>
-  <li> Designing new architectures for implicit depth neural network that allow for more efficient training. </li>
+  <li> Deep learning, particularly implicit neural networks. </li>
   </ul>
 
 I received my PhD from the University of Georgia in May 2019, under the supervision of [Ming-Jun Lai](http://alpha.math.uga.edu/~mjlai/). Prior to that I was an undergraduate at the University of Cape Town, from where I also received my Master's degree. In between Cape Town and Athens, Georgia I spent a semester at the University of Bayreuth working with [Fabrizio Catanese](https://de.wikipedia.org/wiki/Fabrizio_Catanese).   
