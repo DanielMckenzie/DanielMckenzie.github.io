@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am an Assistant Adjunct Professor (i.e. a postdoc) in the Department of Mathematics at UCLA, working with [Wotao Yin](https://www.math.ucla.edu/~wotaoyin/). My work lies in the intersection of machine learning, signal processing and optimization. I am particularly interested in devising new algorithms for old problems that scale efficiently to large data sets. My recent and ongoing projects include:
+ Starting Fall 2022 I will be an Assistant Professor in the AMS department at Colorado School of Mines. My work lies in the intersection of machine learning, signal processing and optimization. I am particularly interested in devising new algorithms for old problems that scale efficiently to large data sets. My recent and ongoing projects include:
  <ul>
   <li> Using compressed sensing to devise new approaches to high-dimensional zeroth order optimization. </li>
   <li> Using path metrics to get a handle on high-dimensional point clouds, particularly when they are sampled from a low dimensional manifold. </li>
@@ -19,4 +19,4 @@ I received my PhD from the University of Georgia in May 2019, under the supervis
 
  I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. Lately I have been thinking a lot about best practice for teaching data science related courses. You can find more information on my teaching page.
 
-You can reach me at [my surname]@math.ucla.edu. My physical address is Office 5346, Mathematical Sciences Building, 520 Portola Plaza, Los Angeles, 90095.
+You can reach me at d[my surname]@mines.edu. My physical address is TBD.
