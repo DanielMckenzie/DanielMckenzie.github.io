@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-12-SimplexOpt
 excerpt: 'We show how to convert the problem of minimizing a convex function over the standard probability simplex to that of minimizing a nonconvex function over the unit sphere..'
 date: 2021-12-12
-venue: '<i> preprint </i>'
+venue: '<i> submitted </i>'
 paperurl: 'https://arxiv.org/abs/2112.05273'
 ---
 
