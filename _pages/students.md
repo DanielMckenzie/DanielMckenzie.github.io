@@ -29,7 +29,7 @@ In general I am happy to write reference letters for undergraduates that I have 
 
 Undergraduate research
 =====
-While I enjoy working with undergraduate students, due to research and teaching commitments, I am currently unable to supervise any more projects.
+I enjoy working with undergraduates, and usually have the capacity to supervise one or two undergraduate projects a semester. If you are a Mines student with some experience in deep learning, feel free to reach out!
 
 For South African Undergraduates
 =====
