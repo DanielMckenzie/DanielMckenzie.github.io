@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
- I am an Assistant Professor in the AMS department at Colorado School of Mines. My work lies in the intersection of machine learning, signal processing and optimization. I am particularly interested in devising new algorithms for old problems that scale efficiently to large data sets. My recent and ongoing projects include:
+ I am an Assistant Professor in the AMS department at Colorado School of Mines, where I am a member of the Mines Optimization and Deep Learning group ([MODL](https://ams.mines.edu/optimization-and-deep-learning/)) My work lies in the intersection of machine learning, signal processing and optimization. More specifically, my research interests are
+
  <ul>
-  <li> Using compressed sensing to devise new approaches to high-dimensional zeroth order optimization. </li>
-  <li> Using path metrics to get a handle on high-dimensional point clouds, particularly when they are sampled from a low dimensional manifold. </li>
-  <li> Deep learning, particularly implicit neural networks. </li>
+  <li> Zeroth order optimization (ZOO), i.e. finding a minimizer of a function whose gradients are inaccessible. I am interesed in developing methods for high-dimensional ZOO and applying them to  problems in machine learning, for example studying adversarial attacks on image classifiers or fine-tuning large language models. For a representative paper, see [here](http://proceedings.mlr.press/v139/cai21d/cai21d.pdf).</li>
+  <li> Learning to Optimize. I focus on combining classical optimization tools with modern deep learning to solve optimization problems where some parameters are unobserved. See [here](https://arxiv.org/pdf/2106.00906.pdf) and [here](https://arxiv.org/pdf/2301.13395.pdf). </li>
+  <li> Topological and geometric methods in data science. In particular, geometry-inspired metrics on data sets and geometric approaches to adversarial training. See [here](https://epubs.siam.org/doi/abs/10.1137/20M1386657) and [here](https://arxiv.org/pdf/2305.18779.pdf). </li>
   </ul>
 
-I received my PhD from the University of Georgia in May 2019, under the supervision of [Ming-Jun Lai](http://alpha.math.uga.edu/~mjlai/). Prior to that I was an undergraduate at the University of Cape Town, from where I also received my Master's degree. In between Cape Town and Athens, Georgia I spent a semester at the University of Bayreuth.
+You can find an up-to-date list of publications on my Google Scholar [page](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en). I received my PhD from the University of Georgia in May 2019, under the supervision of [Ming-Jun Lai](http://alpha.math.uga.edu/~mjlai/). Prior to that I was an undergraduate at the University of Cape Town, from where I also received my Master's degree. In between Cape Town and Athens, Georgia I spent a semester at the University of Bayreuth.
 
  I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. You can find more information on my teaching page. This semester I am teaching *Math 551: Computational Linear Algebra*.
 
