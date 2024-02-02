@@ -16,6 +16,6 @@ redirect_from:
 
 You can find an up-to-date list of publications on my Google Scholar [page](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en).
 
-I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. You can find more information on my teaching page. This semester I am teaching *Math 332: Linear Algebra*.
+I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. You can find more information on my teaching page. This semester I am teaching *Math 551: Computational Linear Algebra*.
 
 You can reach me at d[my surname]@mines.edu. My physical address is 1500 Illinois Street, Golden, CO, 80401.
