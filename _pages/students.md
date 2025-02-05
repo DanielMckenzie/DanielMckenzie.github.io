@@ -6,16 +6,6 @@ author_profile: true
 redirect_from:
 ---
 
-Useful links
-======
-<ul>
-  <li> <a href = "https://awm-math.org/"> Association for Women in Mathematics. </a> </li>
-	<li> <a href = "https://mathematicallygiftedandblack.com/"> Mathematically Gifted and Black. </a> </li>
-	<li> <a href = "https://www.lathisms.org/"> Latinx and Hispanics in the Mathematical Sciences. </a> </li>
-	<li> <a href = "https://lgbtmath.org/"> Spectra: the Association for LGBT Mathematicians. </a> </li>
-	<li> <a href = "https://nexteinstein.org/"> The African Institutes for Mathematical Sciences. </a> </li>
-</ul>
-
 Reference letters
 =====
 In general I am happy to write reference letters for undergraduates that I have taught or conducted research with. Before you ask me for a reference letter, here are some considerations:
@@ -27,9 +17,9 @@ In general I am happy to write reference letters for undergraduates that I have 
   <li> It is usually a good idea for us to meet briefly, either in person or via Zoom, to discuss the programs your are applying for and your motivation for graduate study. This really helps me write you a stronger letter. </li>
 </ul>
 
-Undergraduate research
-=====
-I enjoy working with undergraduates, and usually have the capacity to supervise one or two undergraduate projects a semester. If you are a Mines student with some experience in deep learning, feel free to reach out!
+# Undergraduate research
+# =====
+# I enjoy working with undergraduates, and usually have the capacity to supervise one or two undergraduate projects a semester. If you are a Mines student with some experience in deep learning, feel free to reach out!
 
 For South African Undergraduates
 =====
