@@ -17,9 +17,9 @@ In general I am happy to write reference letters for undergraduates that I have 
   <li> It is usually a good idea for us to meet briefly, either in person or via Zoom, to discuss the programs your are applying for and your motivation for graduate study. This really helps me write you a stronger letter. </li>
 </ul>
 
-# Undergraduate research
+<!-- Undergraduate research
 # =====
-# I enjoy working with undergraduates, and usually have the capacity to supervise one or two undergraduate projects a semester. If you are a Mines student with some experience in deep learning, feel free to reach out!
+# I enjoy working with undergraduates, and usually have the capacity to supervise one or two undergraduate projects a semester. If you are a Mines student with some experience in deep learning, feel free to reach out! -->
 
 For South African Undergraduates
 =====
@@ -31,4 +31,14 @@ If you are a South African undergraduate considering doing a PhD in mathematics 
   <li> Consider applying for a <a href = "https://us.fulbrightonline.org/countries/selectedcountry/south-africa"> Fulbright Scholarship </a> </li>
   <li> Have a website or blog on which you can share some of your mathematical projects or presentations. Admissions committees actually do look at these sorts of things. </li>
   <li> If you have further questions, feel free to email me. </li>
+</ul>
+
+Useful links
+======
+<ul>
+  <li> <a href = "https://csmswim.wixsite.com/swim"> Society for Women in Mathematics (at Mines). </a> </li>
+	<li> <a href = "https://mathematicallygiftedandblack.com/"> Mathematically Gifted and Black. </a> </li>
+	<li> <a href = "https://www.lathisms.org/"> Latinx and Hispanics in the Mathematical Sciences. </a> </li>
+	<li> <a href = "https://lgbtmath.org/"> Spectra: the Association for LGBT Mathematicians. </a> </li>
+	<li> <a href = "https://nexteinstein.org/"> The African Institutes for Mathematical Sciences. </a> </li>
 </ul>

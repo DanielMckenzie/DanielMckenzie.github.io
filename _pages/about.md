@@ -12,10 +12,11 @@ redirect_from:
 
 - Derivative-Free optimization (DFO), i.e. finding a minimizer of a function whose gradients are inaccessible. I am interested in developing methods for high-dimensional DFO and applying them to problems in machine learning, for example studying adversarial attacks on image classifiers or fine-tuning large language models. For a representative paper, see [here](http://proceedings.mlr.press/v139/cai21d/cai21d.pdf).
 - Learning to Optimize. I focus on combining classical optimization tools with modern deep learning to solve optimization problems where some parameters are unobserved. See [here](https://arxiv.org/pdf/2106.00906.pdf) and [here](https://arxiv.org/pdf/2301.13395.pdf).
-- Topological and geometric methods in data science. In particular, geometry-inspired metrics on data sets and geometric approaches to adversarial training. See [here](https://epubs.siam.org/doi/abs/10.1137/20M1386657) and [here](https://arxiv.org/pdf/2305.18779.pdf).
+<!-- - Topological and geometric methods in data science. In particular, geometry-inspired metrics on data sets and geometric approaches to adversarial training. See [here](https://epubs.siam.org/doi/abs/10.1137/20M1386657) and [here](https://arxiv.org/pdf/2305.18779.pdf). -->
+- Applications of machine learning to problems in spatial statistics and hydrology. See [here](https://arxiv.org/pdf/2505.09803).
 
 You can find an up-to-date list of publications on my Google Scholar [page](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en).
 
-I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. You can find more information on my teaching page. This semester I am not teaching.
+I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. You can find more information on my teaching page. This semester I am teaching Math 500: Linear Vector Spaces.
 
 You can reach me at d[my surname]@mines.edu. My physical address is 1500 Illinois Street, Golden, CO, 80401.
