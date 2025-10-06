@@ -14,7 +14,7 @@ redirect_from:
 
 - Learning to Optimize. I focus on combining classical optimization tools with modern deep learning to solve optimization problems where some parameters are unobserved. See [here](https://arxiv.org/pdf/2106.00906.pdf) and [here](https://arxiv.org/pdf/2301.13395.pdf).
 <!-- - Topological and geometric methods in data science. In particular, geometry-inspired metrics on data sets and geometric approaches to adversarial training. See [here](https://epubs.siam.org/doi/abs/10.1137/20M1386657) and [here](https://arxiv.org/pdf/2305.18779.pdf). -->
-- AI for Science. I am interested in nsacent application of machine learning to problems in spatial statistics and hydrology. See [here](https://arxiv.org/pdf/2505.09803).
+- AI for Science. I am interested in nascent application of machine learning to problems in spatial statistics and hydrology. See [here](https://arxiv.org/pdf/2505.09803).
 
 You can find an up-to-date list of publications on my Google Scholar [page](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en).
 
