@@ -18,7 +18,7 @@ redirect_from:
 
 You can find an up-to-date list of publications on my Google Scholar [page](https://scholar.google.ca/citations?user=kP12IskAAAAJ&hl=en).
 
-[Samy Wu Fung](https://swufung.github.io/) and I have a joint research group: the Mines Optimization and Deep Learning group ([MODL](https://ams.mines.edu/optimization-and-deep-learning/)). We have a weekly seminar; feel free to email more for futher details on this.
+[Samy Wu Fung](https://swufung.github.io/) and I have a joint research group: the Mines Optimization and Deep Learning group ([MODL](https://ams.mines.edu/research/optimization-and-deep-learning/)). We have a weekly seminar; feel free to email more for futher details on this.
 
 I enjoy teaching upper and lower division courses, and strive to make my classrooms a welcoming space for all. You can find more information on my teaching page. This semester I am teaching Math 500: Linear Vector Spaces.
 
